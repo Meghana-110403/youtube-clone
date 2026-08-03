@@ -2,6 +2,8 @@
 
 A YouTube-inspired video browsing app built with React and Vite, powered by the real YouTube Data API v3. Browse trending videos, search, watch videos with comments and related content, and use local (mock) sign-in, likes, and history — all without a backend server.
 
+**🔗 Live demo:** [youtube-clone-umber-rho-22.vercel.app](https://youtube-clone-umber-rho-22.vercel.app/)
+
 ## Features
 
 - **Trending videos** – pulls the current most popular videos via the YouTube Data API
